@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "claude-remote",
+    "slug": "claude-remote",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#FAFAF9"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.clauderemote.app",
+      "infoPlist": {
+        "NSMicrophoneUsageDescription": "Used for voice input to send commands to Claude Code."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FAFAF9"
+      },
+      "package": "com.clauderemote.app",
+      "permissions": ["RECORD_AUDIO"]
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "scheme": "claude-remote",
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}

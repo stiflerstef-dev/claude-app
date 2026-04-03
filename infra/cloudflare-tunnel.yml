@@ -1,0 +1,24 @@
+# Cloudflare Tunnel configuration for claude-remote relay server.
+# Routes all traffic to localhost:3030 — no open inbound ports required.
+#
+# Setup:
+#   1. Install cloudflared: https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/install-and-setup/
+#   2. Authenticate: cloudflared tunnel login
+#   3. Create tunnel: cloudflared tunnel create claude-remote
+#   4. Add DNS route: cloudflared tunnel route dns claude-remote relay.yourdomain.com
+#   5. Run: cloudflared tunnel --config infra/cloudflare-tunnel.yml run
+
+tunnel: <YOUR_TUNNEL_ID>
+credentials-file: /root/.cloudflared/<YOUR_TUNNEL_ID>.json
+
+ingress:
+  - hostname: relay.yourdomain.com
+    service: http://localhost:3030
+    originRequest:
+      noTLSVerify: false
+      connectTimeout: 30s
+      tcpKeepAlive: 30s
+      # WebSocket support is automatic in Cloudflare Tunnels
+
+  # Catch-all — required by cloudflared
+  - service: http_status:404

@@ -1,0 +1,11 @@
+node_modules/
+.expo/
+dist/
+.env
+*.env
+*.log
+.DS_Store
+.claude-flow/
+.claude/
+ios/
+android/
