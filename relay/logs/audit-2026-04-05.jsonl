@@ -974,3 +974,5 @@
 {"timestamp":"2026-04-05T04:11:42.499Z","event_type":"daemon_connected","device_id":"local-dev-machine","session_id":null,"detail":null}
 {"timestamp":"2026-04-05T04:12:12.503Z","event_type":"daemon_disconnected","device_id":"local-dev-machine","session_id":null,"detail":null}
 {"timestamp":"2026-04-05T04:12:13.510Z","event_type":"daemon_connected","device_id":"local-dev-machine","session_id":null,"detail":null}
+{"timestamp":"2026-04-05T04:12:43.515Z","event_type":"daemon_disconnected","device_id":"local-dev-machine","session_id":null,"detail":null}
+{"timestamp":"2026-04-05T04:12:44.521Z","event_type":"daemon_connected","device_id":"local-dev-machine","session_id":null,"detail":null}
