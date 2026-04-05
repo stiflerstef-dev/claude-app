@@ -4804,3 +4804,5 @@
 {"timestamp":"2026-04-05T20:41:41.076Z","event_type":"daemon_connected","device_id":"local-dev-machine","session_id":null,"detail":null}
 {"timestamp":"2026-04-05T20:42:11.088Z","event_type":"daemon_disconnected","device_id":"local-dev-machine","session_id":null,"detail":null}
 {"timestamp":"2026-04-05T20:42:12.095Z","event_type":"daemon_connected","device_id":"local-dev-machine","session_id":null,"detail":null}
+{"timestamp":"2026-04-05T20:42:42.108Z","event_type":"daemon_disconnected","device_id":"local-dev-machine","session_id":null,"detail":null}
+{"timestamp":"2026-04-05T20:42:43.114Z","event_type":"daemon_connected","device_id":"local-dev-machine","session_id":null,"detail":null}
