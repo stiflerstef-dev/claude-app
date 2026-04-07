@@ -2000,3 +2000,5 @@
 {"timestamp":"2026-04-07T08:36:53.480Z","event_type":"daemon_connected","device_id":"local-dev-machine","session_id":null,"detail":null}
 {"timestamp":"2026-04-07T08:37:23.485Z","event_type":"daemon_disconnected","device_id":"local-dev-machine","session_id":null,"detail":null}
 {"timestamp":"2026-04-07T08:37:24.492Z","event_type":"daemon_connected","device_id":"local-dev-machine","session_id":null,"detail":null}
+{"timestamp":"2026-04-07T08:37:54.504Z","event_type":"daemon_disconnected","device_id":"local-dev-machine","session_id":null,"detail":null}
+{"timestamp":"2026-04-07T08:37:55.510Z","event_type":"daemon_connected","device_id":"local-dev-machine","session_id":null,"detail":null}
