@@ -5010,3 +5010,5 @@
 {"timestamp":"2026-04-09T21:34:52.893Z","event_type":"daemon_connected","device_id":"local-dev-machine","session_id":null,"detail":null}
 {"timestamp":"2026-04-09T21:35:22.900Z","event_type":"daemon_disconnected","device_id":"local-dev-machine","session_id":null,"detail":null}
 {"timestamp":"2026-04-09T21:35:23.907Z","event_type":"daemon_connected","device_id":"local-dev-machine","session_id":null,"detail":null}
+{"timestamp":"2026-04-09T21:35:53.915Z","event_type":"daemon_disconnected","device_id":"local-dev-machine","session_id":null,"detail":null}
+{"timestamp":"2026-04-09T21:35:54.922Z","event_type":"daemon_connected","device_id":"local-dev-machine","session_id":null,"detail":null}
