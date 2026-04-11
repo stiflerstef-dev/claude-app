@@ -2552,3 +2552,5 @@
 {"timestamp":"2026-04-11T10:59:31.459Z","event_type":"daemon_connected","device_id":"local-dev-machine","session_id":null,"detail":null}
 {"timestamp":"2026-04-11T11:00:01.462Z","event_type":"daemon_disconnected","device_id":"local-dev-machine","session_id":null,"detail":null}
 {"timestamp":"2026-04-11T11:00:02.469Z","event_type":"daemon_connected","device_id":"local-dev-machine","session_id":null,"detail":null}
+{"timestamp":"2026-04-11T11:00:32.473Z","event_type":"daemon_disconnected","device_id":"local-dev-machine","session_id":null,"detail":null}
+{"timestamp":"2026-04-11T11:00:33.479Z","event_type":"daemon_connected","device_id":"local-dev-machine","session_id":null,"detail":null}
