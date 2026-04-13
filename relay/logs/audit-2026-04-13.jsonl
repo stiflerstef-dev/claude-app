@@ -2012,3 +2012,5 @@
 {"timestamp":"2026-04-13T08:39:55.688Z","event_type":"daemon_connected","device_id":"local-dev-machine","session_id":null,"detail":null}
 {"timestamp":"2026-04-13T08:40:25.694Z","event_type":"daemon_disconnected","device_id":"local-dev-machine","session_id":null,"detail":null}
 {"timestamp":"2026-04-13T08:40:26.700Z","event_type":"daemon_connected","device_id":"local-dev-machine","session_id":null,"detail":null}
+{"timestamp":"2026-04-13T08:40:56.707Z","event_type":"daemon_disconnected","device_id":"local-dev-machine","session_id":null,"detail":null}
+{"timestamp":"2026-04-13T08:40:57.714Z","event_type":"daemon_connected","device_id":"local-dev-machine","session_id":null,"detail":null}
