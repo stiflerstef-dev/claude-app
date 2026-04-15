@@ -2096,3 +2096,5 @@
 {"timestamp":"2026-04-15T09:01:35.817Z","event_type":"daemon_connected","device_id":"local-dev-machine","session_id":null,"detail":null}
 {"timestamp":"2026-04-15T09:02:05.829Z","event_type":"daemon_disconnected","device_id":"local-dev-machine","session_id":null,"detail":null}
 {"timestamp":"2026-04-15T09:02:06.836Z","event_type":"daemon_connected","device_id":"local-dev-machine","session_id":null,"detail":null}
+{"timestamp":"2026-04-15T09:02:36.843Z","event_type":"daemon_disconnected","device_id":"local-dev-machine","session_id":null,"detail":null}
+{"timestamp":"2026-04-15T09:02:37.849Z","event_type":"daemon_connected","device_id":"local-dev-machine","session_id":null,"detail":null}
