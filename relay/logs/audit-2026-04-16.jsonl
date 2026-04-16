@@ -4010,3 +4010,5 @@
 {"timestamp":"2026-04-16T17:16:03.584Z","event_type":"daemon_connected","device_id":"local-dev-machine","session_id":null,"detail":null}
 {"timestamp":"2026-04-16T17:16:33.596Z","event_type":"daemon_disconnected","device_id":"local-dev-machine","session_id":null,"detail":null}
 {"timestamp":"2026-04-16T17:16:34.603Z","event_type":"daemon_connected","device_id":"local-dev-machine","session_id":null,"detail":null}
+{"timestamp":"2026-04-16T17:17:04.615Z","event_type":"daemon_disconnected","device_id":"local-dev-machine","session_id":null,"detail":null}
+{"timestamp":"2026-04-16T17:17:05.621Z","event_type":"daemon_connected","device_id":"local-dev-machine","session_id":null,"detail":null}
