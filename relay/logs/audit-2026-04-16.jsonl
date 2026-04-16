@@ -1920,3 +1920,5 @@
 {"timestamp":"2026-04-16T08:15:50.367Z","event_type":"daemon_connected","device_id":"local-dev-machine","session_id":null,"detail":null}
 {"timestamp":"2026-04-16T08:16:20.376Z","event_type":"daemon_disconnected","device_id":"local-dev-machine","session_id":null,"detail":null}
 {"timestamp":"2026-04-16T08:16:21.384Z","event_type":"daemon_connected","device_id":"local-dev-machine","session_id":null,"detail":null}
+{"timestamp":"2026-04-16T08:16:51.394Z","event_type":"daemon_disconnected","device_id":"local-dev-machine","session_id":null,"detail":null}
+{"timestamp":"2026-04-16T08:16:52.400Z","event_type":"daemon_connected","device_id":"local-dev-machine","session_id":null,"detail":null}
