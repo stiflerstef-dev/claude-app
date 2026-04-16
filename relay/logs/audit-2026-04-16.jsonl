@@ -1958,3 +1958,5 @@
 {"timestamp":"2026-04-16T08:25:39.714Z","event_type":"daemon_connected","device_id":"local-dev-machine","session_id":null,"detail":null}
 {"timestamp":"2026-04-16T08:26:09.726Z","event_type":"daemon_disconnected","device_id":"local-dev-machine","session_id":null,"detail":null}
 {"timestamp":"2026-04-16T08:26:10.734Z","event_type":"daemon_connected","device_id":"local-dev-machine","session_id":null,"detail":null}
+{"timestamp":"2026-04-16T08:26:40.746Z","event_type":"daemon_disconnected","device_id":"local-dev-machine","session_id":null,"detail":null}
+{"timestamp":"2026-04-16T08:26:41.752Z","event_type":"daemon_connected","device_id":"local-dev-machine","session_id":null,"detail":null}
